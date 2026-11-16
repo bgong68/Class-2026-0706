@@ -17,9 +17,9 @@
 [🖼️ Squad H](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20H.jpg)  
 [🖼️ Squad Leaders](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20Leaders.jpg)
 <br>
-[🖼️ Class Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Class%20Pic%2006.10.2026.jpg)
+<!--[🖼️ Class Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Class%20Pic%2006.10.2026.jpg)-->
 <br>
-[🖼️ Graduation Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Court%20Officers%20Graduation.jpg)
+<!--[🖼️ Graduation Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Court%20Officers%20Graduation.jpg)-->
 <br>
 <!-- [🎥 Graduation Video](https://drive.google.com/file/d/1aW3M8PXXu_uUQILXPs9CcvZgLhhPGbo2/view?usp=drive_link) -->
 <br>
