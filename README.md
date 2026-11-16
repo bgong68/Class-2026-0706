@@ -19,7 +19,7 @@
 <br>
 [🖼️ Graduation Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Court%20Officers%20Graduation.jpg)
 <br>
-[🎥 Graduation Video](https://drive.google.com/file/d/1aW3M8PXXu_uUQILXPs9CcvZgLhhPGbo2/view?usp=drive_link)
+<!-- [🎥 Graduation Video](https://drive.google.com/file/d/1aW3M8PXXu_uUQILXPs9CcvZgLhhPGbo2/view?usp=drive_link) -->
 <br>
 
 NYS Court Officers Academy
