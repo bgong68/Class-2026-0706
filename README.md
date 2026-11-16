@@ -15,7 +15,7 @@
 [🖼️ Squad F](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20F.jpg)  
 [🖼️ Squad G](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20G.jpg)  
 [🖼️ Squad H](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20H.jpg)  
-[🖼️ Squad Leaders](https://github.com/bgong68/Class-2026-0217/blob/main/06.10.2026%20Squad%20Leaders.jpg)
+[🖼️ Squad Leaders](https://github.com/bgong68/Class-2026-0706/blob/main/Class%20Pic%2010.29.2026%20Squad%20Leaders.jpg)
 <br>
 [🖼️ Class Picture](https://github.com/bgong68/Class-2026-0217/blob/main/Class%20Pic%2006.10.2026.jpg)
 <br>
