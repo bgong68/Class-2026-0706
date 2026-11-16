@@ -1,4 +1,3 @@
-<img width="3300" height="2550" alt="Class Pic 10 29 2026 Squad A" src="https://github.com/user-attachments/assets/9d22176c-1d12-47da-b323-f127bbf5d04e" />
 
 # Class-2026-0706
 ![Court-Patch](https://github.com/user-attachments/assets/b445fc70-a8ab-406d-8ae9-9e371e9216b0)
